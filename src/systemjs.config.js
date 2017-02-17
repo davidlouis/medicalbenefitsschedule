@@ -33,7 +33,8 @@
         defaultExtension: 'js'
       },
       rxjs: {
-        defaultExtension: 'js'
+        defaultExtension: 'js',
+        folder: 'lib'
       }
     }
   });
